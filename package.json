@@ -1,0 +1,32 @@
+{
+  "name": "tslint-config-cowtech",
+  "version": "5.1",
+  "description": "Cowtech's tslint configuration",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "postpublish": "git push origin --tags && git push origin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShogunPanda/tslint-config-cowtech"
+  },
+  "keywords": [
+    "tslint",
+    "tslintconfig",
+    "cowtech"
+  ],
+  "author": "Shogun <shogun@cowtech.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShogunPanda/tslint-config-cowtech/issues"
+  },
+  "homepage": "https://github.com/ShogunPanda/tslint-config-cowtech/issues",
+  "dependencies": {
+    "tslint": "<5.2"
+  }
+}
