@@ -3,7 +3,7 @@
 [![Package Version](https://badge.fury.io/js/tslint-config-cowtech.png)](http://badge.fury.io/js/tslint-config-cowtech)
 [![Dependency Status](https://gemnasium.com/ShogunPanda/tslint-config-cowtech.png?travis)](https://gemnasium.com/ShogunPanda/tslint-config-cowtech)
 
-CowTech style tslint config
+CowTech style TSLint config
 
 https://github.com/ShogunPanda/tslint-config-cowtech
 
