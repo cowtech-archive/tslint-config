@@ -7,7 +7,7 @@ module.exports = {
   extends: "./node.js",
   // The following rules need tslint-react to be added in the devDependencies.
   rules: {
-    "jsx-alignment": true,
+    "jsx-alignment": false,
     "jsx-ban-props": false,
     "jsx-curly-spacing": false,
     "jsx-no-bind": false,
