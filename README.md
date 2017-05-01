@@ -1,6 +1,6 @@
 # tslint-config-cowtech
 
-[![Package Version](https://badge.fury.io/js/tslint-config-cowtech.png)](http://badge.fury.io/js/tslint-config-cowtech)
+[![Package Version](https://badge.fury.io/js/tslint-config-cowtech.png)](https://badge.fury.io/js/tslint-config-cowtech)
 [![Dependency Status](https://gemnasium.com/ShogunPanda/tslint-config-cowtech.png?travis)](https://gemnasium.com/ShogunPanda/tslint-config-cowtech)
 
 CowTech style TSLint config
@@ -13,7 +13,7 @@ In your tslint.json configuration file, insert the following statement:
 
 ```typescript
 // ...
-"extends": "cowtech"
+"extends": ["tslint-config-cowtech"]
 // ...
 ```
 
