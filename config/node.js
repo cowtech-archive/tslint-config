@@ -85,7 +85,7 @@ module.exports = {
     "no-unused-variable": false, // Enable this is one of -–noUnusedParameters or -–noUnusedLocals is NOT set
     "no-use-before-declare": true,
     "no-var-keyword": true,
-    "no-void-expression": true,
+    "no-void-expression": false,
     "radix": true,
     "restrict-plus-operands": true,
     "strict-boolean-expressions": false,
