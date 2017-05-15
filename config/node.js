@@ -139,7 +139,7 @@ module.exports = {
     "one-line": [true, "check-catch", "check-finally", "check-else", "check-open-brace"],
     "one-variable-per-declaration": true,
     "ordered-imports": false,
-    "prefer-function-over-method": true,
+    "prefer-function-over-method": false,
     "prefer-method-signature": true,
     "prefer-template": [true, "allow-single-concat"],
     "quotemark": [true, "double", "jsx-double", "avoid-escape"],

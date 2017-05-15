@@ -1,3 +1,7 @@
+### 2017-05-03 / 5.1.5
+
+* Disable misleadign rule.
+
 ### 2017-05-03 / 5.1.4
 
 * Disable misleadign rule.
