@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/ShogunPanda/tslint-config-cowtech/issues",
   "dependencies": {
-    "tslint": "<5.2"
+    "tslint": "<5.4"
   }
 }

@@ -1,3 +1,7 @@
+### 2017-05-03 / 5.3.0
+
+* Update to TSLint 5.3.0
+
 ### 2017-05-03 / 5.1.5
 
 * Disable misleadign rule.
