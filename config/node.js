@@ -144,7 +144,7 @@ module.exports = {
     "one-line": [true, "check-catch", "check-finally", "check-else", "check-open-brace"],
     "one-variable-per-declaration": true,
     "ordered-imports": false,
-    "prefer-conditional": true,
+    "prefer-conditional-expression": true,
     "prefer-function-over-method": false,
     "prefer-object-spread": true,
     "prefer-method-signature": true,
