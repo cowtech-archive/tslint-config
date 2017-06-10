@@ -53,7 +53,7 @@ module.exports = {
     // Functionality
     "await-promise": true,
     "ban": false,
-    "curly": [true, "as-needed"],
+    "curly": false,
     "encoding": true,
     "forin": true,
     "import-blacklist": false,
