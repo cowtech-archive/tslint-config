@@ -53,7 +53,7 @@ module.exports = {
     // Functionality
     "await-promise": true,
     "ban": false,
-    "curly": false,
+    "curly": [true, "as-needed"],
     "encoding": true,
     "forin": true,
     "import-blacklist": false,
@@ -65,10 +65,10 @@ module.exports = {
     "no-construct": true,
     "no-debugger": true,
     "no-duplicate-super": true,
-    "no-duplicate-variable": true,
+    "no-duplicate-variable": [true, "check-parameters"],
     "no-empty": true,
     "no-eval": true,
-    "no-floating-promises": false,
+    "no-floating-promises": true,
     "no-for-in-array": true,
     "no-inferred-empty-object-type": true,
     "no-invalid-template-strings": true,
@@ -96,6 +96,7 @@ module.exports = {
     "switch-default": false,
     "triple-equals": true,
     "typeof-compare": true,
+    "use-default-type-parameter": true,
     "use-isnan": true,
     // Maintainability
     "cyclomatic-complexity": [true, MAX_COMPLEXITY],
@@ -116,6 +117,7 @@ module.exports = {
     "array-type": [true, "generic"],
     "arrow-parens": [true, "ban-single-arg-parens"],
     "arrow-return-shorthand": [true, "multiline"],
+    "binary-expression-operand-order": true,
     "callable-types": true,
     "class-name": true,
     "comment-format": [true, "check-space", "check-uppercase"],
@@ -154,6 +156,7 @@ module.exports = {
     "return-undefined": true,
     "semicolon": [true, "always"],
     "space-before-function-paren": [true, {"anonymous": "never", "named": "never", "asyncArrow": "always", "method": "never", "constructor": "never"}],
+    "switch-final-break": [true, "always"],
     "variable-name": [true, "check-format", "allow-leading-underscore", "allow-pascal-case", "allow-snake-case"],
     "whitespace": [true, "check-decl", "check-operator", "check-module", "check-separator", "check-type", "check-typecast"]
   }
