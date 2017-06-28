@@ -1,11 +1,11 @@
-# tslint-config-cowtech
+# @cowtech/tslint-config
 
-[![Package Version](https://badge.fury.io/js/tslint-config-cowtech.png)](https://badge.fury.io/js/tslint-config-cowtech)
-[![Dependency Status](https://gemnasium.com/ShogunPanda/tslint-config-cowtech.png?travis)](https://gemnasium.com/ShogunPanda/tslint-config-cowtech)
+[![Package Version](https://badge.fury.io/js/%40cowtech%2Ftslint-config.svg)](https://badge.fury.io/js/%40cowtech%2Ftslint-config)
+[![Dependency Status](https://gemnasium.com/badges/github.com/cowtech/tslint-config.svg)](https://gemnasium.com/github.com/cowtech/tslint-config)
 
 CowTech style TSLint config
 
-https://github.com/ShogunPanda/tslint-config-cowtech
+https://github.com/cowtech/tslint-config
 
 ## Usage
 
@@ -13,11 +13,11 @@ In your tslint.json configuration file, insert the following statement:
 
 ```typescript
 // ...
-"extends": ["tslint-config-cowtech"]
+"extends": ["@cowtech/tslint-config"]
 // ...
 ```
 
-## Contributing to tslint-config-cowtech
+## Contributing to @cowtech/tslint-config
 
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.

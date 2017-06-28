@@ -1,3 +1,7 @@
+### 2017-06-28 / 5.4.2
+
+* Moved to @cowtech organization on npm.
+
 ### 2017-06-09 / 5.4.1
 
 * Minor bugfix.

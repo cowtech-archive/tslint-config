@@ -1,10 +1,10 @@
 /*
- * This file is part of the tslint-config-cowtech npm package. Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
+ * This file is part of the @cowtech/tslint-config npm package. Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
  * Licensed under the MIT license, which can be found at http://www.opensource.org/licenses/mit-license.php.
  */
 
 module.exports = {
-  extends: "./node.js",
+  extends: "./index.js",
   // The following rules need tslint-react to be added in the devDependencies.
   rules: {
     "jsx-alignment": false,
