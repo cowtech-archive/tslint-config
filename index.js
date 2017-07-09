@@ -81,6 +81,7 @@ module.exports = {
     "no-string-literal": false,
     "no-string-throw": true,
     "no-switch-case-fall-through": false,
+    "no-this-assignment": [true, {"allow-destructuring": true}],
     "no-unbound-method": false,
     "no-unsafe-any": false,
     "no-unsafe-finally": true,
