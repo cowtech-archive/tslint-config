@@ -1,3 +1,7 @@
+### 2017-06-28 / 5.6.1
+
+* Publish the correct version.
+
 ### 2017-06-28 / 5.5.0
 
 * Update to TSLint 5.5.x.
