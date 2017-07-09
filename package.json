@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/tslint-config",
-  "version": "5.4.4",
+  "version": "5.4.5",
   "description": "Cowtech's tslint configuration",
   "main": "index.js",
   "files": [
