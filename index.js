@@ -159,6 +159,6 @@ module.exports = {
     "space-before-function-paren": [true, {"anonymous": "never", "named": "never", "asyncArrow": "always", "method": "never", "constructor": "never"}],
     "switch-final-break": [true, "always"],
     "variable-name": [true, "check-format", "allow-leading-underscore", "allow-pascal-case", "allow-snake-case"],
-    "whitespace": [true, "check-decl", "check-operator", "check-module", "check-separator", "check-type", "check-typecast"]
+    "whitespace": [true, "check-decl", "check-operator", "check-separator", "check-type", "check-typecast"]
   }
 };

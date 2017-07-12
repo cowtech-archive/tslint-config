@@ -1,3 +1,7 @@
+### 2017-11-12 / 5.6.2
+
+* Minor bugfix.
+
 ### 2017-06-28 / 5.6.1
 
 * Publish the correct version.
