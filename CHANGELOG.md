@@ -1,4 +1,8 @@
-### 2017-11-12 / 5.6.2
+### 2017-07-19 / 5.6.3
+
+* Switched to single quotes to be closer to StandardJS.
+
+### 2017-07-12 / 5.6.2
 
 * Minor bugfix.
 

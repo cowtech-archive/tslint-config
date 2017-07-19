@@ -4,18 +4,18 @@
  */
 
 module.exports = {
-  extends: "./index.js",
+  extends: './index.js',
   // The following rules need tslint-react to be added in the devDependencies.
   rules: {
-    "jsx-alignment": false,
-    "jsx-ban-props": false,
-    "jsx-curly-spacing": false,
-    "jsx-no-bind": false,
-    "jsx-no-lambda": false,
-    "jsx-no-multiline-js": false,
-    "jsx-no-string-ref": true,
-    "jsx-use-translation-function": false,
-    "jsx-self-close": true,
-    "jsx-wrap-multiline": true
+    'jsx-alignment': false,
+    'jsx-ban-props': false,
+    'jsx-curly-spacing': false,
+    'jsx-no-bind': false,
+    'jsx-no-lambda': false,
+    'jsx-no-multiline-js': false,
+    'jsx-no-string-ref': true,
+    'jsx-use-translation-function': false,
+    'jsx-self-close': true,
+    'jsx-wrap-multiline': true
   }
 }
