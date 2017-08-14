@@ -18,4 +18,4 @@ module.exports = {
     'jsx-self-close': true,
     'jsx-wrap-multiline': true
   }
-}
+};

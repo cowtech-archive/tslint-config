@@ -10,6 +10,7 @@
     "CHANGELOG.md"
   ],
   "scripts": {
+    "lint": "eslint *.js",
     "postpublish": "git push origin --tags && git push origin"
   },
   "repository": {
@@ -29,5 +30,10 @@
   "homepage": "https://github.com/cowtech/tslint-config/issues",
   "dependencies": {
     "tslint": "<5.7"
+  },
+  "devDependencies": {
+    "@cowtech/eslint-config": "~4.4",
+    "@cowtech/package-utils": "~0.2",
+    "eslint": "~4.4"
   }
 }

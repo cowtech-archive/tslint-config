@@ -114,7 +114,7 @@ module.exports = {
     'no-require-imports': false,
     'object-literal-sort-keys': false,
     'prefer-const': true,
-    'trailing-comma': [true, {'multiline': 'never', 'singleline': 'never'}],
+    'trailing-comma': [true, {multiline: 'never', singleline: 'never'}],
     // Style
     'align': [true, 'parameters', 'statements'],
     'array-type': [true, 'generic'],
@@ -158,7 +158,7 @@ module.exports = {
     'quotemark': [true, 'single', 'jsx-double', 'avoid-escape', 'no-template'],
     'return-undefined': true,
     'semicolon': [true, 'always'],
-    'space-before-function-paren': [true, {'anonymous': 'never', 'named': 'never', 'asyncArrow': 'always', 'method': 'never', 'constructor': 'never'}],
+    'space-before-function-paren': [true, {anonymous: 'never', named: 'never', asyncArrow: 'always', method: 'never', constructor: 'never'}],
     'space-within-parens': false,
     'switch-final-break': [true, 'always'],
     'variable-name': [true, 'check-format', 'allow-leading-underscore', 'allow-pascal-case', 'allow-snake-case'],
