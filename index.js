@@ -80,6 +80,7 @@ module.exports = {
     'no-sparse-arrays': true,
     'no-string-literal': false,
     'no-string-throw': true,
+    'no-submodule-imports': false,
     'no-switch-case-fall-through': false,
     'no-this-assignment': [true, {'allow-destructuring': true}],
     'no-unbound-method': false,
@@ -108,6 +109,7 @@ module.exports = {
     'max-file-line-count': false,
     'max-line-length': [true, MAX_LINE_LENGTH],
     'no-default-export': false,
+    'no-duplicate-imports': true,
     'no-mergeable-namespace': true,
     'no-require-imports': false,
     'object-literal-sort-keys': false,
@@ -157,6 +159,7 @@ module.exports = {
     'return-undefined': true,
     'semicolon': [true, 'always'],
     'space-before-function-paren': [true, {'anonymous': 'never', 'named': 'never', 'asyncArrow': 'always', 'method': 'never', 'constructor': 'never'}],
+    'space-within-parens': false,
     'switch-final-break': [true, 'always'],
     'variable-name': [true, 'check-format', 'allow-leading-underscore', 'allow-pascal-case', 'allow-snake-case'],
     'whitespace': [true, 'check-decl', 'check-operator', 'check-separator', 'check-type', 'check-typecast']

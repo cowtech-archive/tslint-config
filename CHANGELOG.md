@@ -1,3 +1,7 @@
+### 2017-08-14 / 5.6.4
+
+* Update to TSLint 5.6.x.
+
 ### 2017-07-19 / 5.6.3
 
 * Switched to single quotes to be closer to StandardJS.
