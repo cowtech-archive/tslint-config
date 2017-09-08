@@ -37,6 +37,7 @@ module.exports = {
     'no-magic-numbers': [true, ...MAGIC_NUMBERS],
     'no-namespace': false,
     'no-non-null-assertion': false,
+    'no-parameter-reassignment': false,
     'no-reference': true,
     'no-unnecessary-type-assertion': false,
     'no-var-requires': false,
@@ -162,6 +163,6 @@ module.exports = {
     'space-within-parens': false,
     'switch-final-break': [true, 'always'],
     'variable-name': [true, 'check-format', 'allow-leading-underscore', 'allow-pascal-case', 'allow-snake-case'],
-    'whitespace': [true, 'check-decl', 'check-operator', 'check-separator', 'check-type', 'check-typecast']
+    'whitespace': [true, 'check-decl', 'check-operator', 'check-rest-spread', 'check-separator', 'check-type', 'check-type-operator', 'check-typecast']
   }
 };
