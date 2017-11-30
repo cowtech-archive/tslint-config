@@ -29,11 +29,10 @@
   },
   "homepage": "https://github.com/cowtech/tslint-config/issues",
   "dependencies": {
-    "tslint": "~5.7"
+    "tslint": "~5.8"
   },
   "devDependencies": {
-    "@cowtech/eslint-config": "~4.6",
-    "@cowtech/package-utils": "~0.2",
-    "eslint": "~4.6"
+    "@cowtech/eslint-config": "~4.12",
+    "@cowtech/package-utils": "~0.2"
   }
 }

@@ -103,7 +103,6 @@ module.exports = {
     'strict-type-predicates': false,
     'switch-default': false,
     'triple-equals': true,
-    'typeof-compare': true,
     'use-default-type-parameter': true,
     'use-isnan': true,
     // Maintainability
@@ -129,7 +128,7 @@ module.exports = {
     'binary-expression-operand-order': true,
     'callable-types': true,
     'class-name': true,
-    'comment-format': [true, 'check-space', 'check-uppercase'],
+    'comment-format': [true, 'check-space'],
     'completed-docs': false,
     'file-header': false,
     'import-spacing': true,

@@ -1,3 +1,7 @@
+### 2017-11-30 / 5.9.0
+
+* Correctly track dependencies.
+
 ### 2017-10-29 / 5.8.0
 
 * Update to TSLint 5.8.x.
