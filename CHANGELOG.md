@@ -1,3 +1,7 @@
+### 2017-12-11 / 5.9.1
+
+* Minor fix.
+
 ### 2017-11-30 / 5.9.0
 
 * Correctly track dependencies.

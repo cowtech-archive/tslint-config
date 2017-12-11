@@ -150,7 +150,7 @@ module.exports = {
     'no-unnecessary-initializer': true,
     'no-unnecessary-qualifier': false,
     'number-literal-format': true,
-    'object-literal-key-quotes': [true, 'consistent-as-needed'],
+    'object-literal-key-quotes': [true, 'as-needed'],
     'object-literal-shorthand': true,
     'one-line': [true, 'check-catch', 'check-finally', 'check-else', 'check-open-brace'],
     'one-variable-per-declaration': true,
