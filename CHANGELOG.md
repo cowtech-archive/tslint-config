@@ -1,3 +1,7 @@
+### 2018-01-18 / 5.9.2
+
+* Update to TSLint 5.9.x. Align back with versioning.
+
 ### 2017-12-11 / 5.9.1
 
 * Minor fix.

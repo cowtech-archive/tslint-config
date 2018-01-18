@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/cowtech/tslint-config/issues",
   "dependencies": {
-    "tslint": "~5.8"
+    "tslint": "~5.9"
   },
   "devDependencies": {
     "@cowtech/eslint-config": "~4.12",
