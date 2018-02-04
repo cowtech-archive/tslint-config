@@ -1,7 +1,7 @@
 # @cowtech/tslint-config
 
-[![Package Version](https://badge.fury.io/js/%40cowtech%2Ftslint-config.svg)](https://badge.fury.io/js/%40cowtech%2Ftslint-config)
-[![Dependency Status](https://gemnasium.com/badges/github.com/cowtech/tslint-config.svg)](https://gemnasium.com/github.com/cowtech/tslint-config)
+[![Package Version](https://img.shields.io/npm/v/@cowtech/tslint-config.svg)](https://npmjs.com/package/@cowtech/tslint-config)
+[![Dependency Status](https://img.shields.io/gemnasium/github.com/cowtech/tslint-config.svg)](https://gemnasium.com/github.com/cowtech/tslint-config)
 
 CowTech style TSLint config
 
@@ -30,4 +30,4 @@ In your tslint.json configuration file, insert the following statement:
 
 Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
 
-Licensed under the MIT license, which can be found at http://opensource.org/licenses/MIT.
+Licensed under the MIT license, which can be found at https://choosealicense.com/licenses/mit.
