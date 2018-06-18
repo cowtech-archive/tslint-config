@@ -1,3 +1,7 @@
+### 2018-06-18 / 5.10.2
+
+* chore: Update dependencies scheme.
+
 ### 2018-06-18 / 5.10.1
 
 * fix: Use double quotes in JSX.
