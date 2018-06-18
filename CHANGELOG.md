@@ -1,3 +1,8 @@
+### 2018-06-18 / 5.10.0
+
+* feat: Switch to StandardJS.
+* Updated license links and badges.
+
 ### 2018-01-18 / 5.9.2
 
 * Update to TSLint 5.9.x. Align back with versioning.
