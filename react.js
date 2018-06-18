@@ -4,8 +4,7 @@
  */
 
 module.exports = {
-  extends: './index.js',
-  // The following rules need tslint-react to be added in the devDependencies.
+  extends: ['./index.js', 'tslint-react'],
   rules: {
     'jsx-alignment': false,
     'jsx-ban-props': false,
@@ -18,4 +17,4 @@ module.exports = {
     'jsx-self-close': true,
     'jsx-wrap-multiline': true
   }
-};
+}
