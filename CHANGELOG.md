@@ -1,3 +1,7 @@
+### 2018-06-18 / 5.10.3
+
+* chore: Add prettier to dev dependencies.
+
 ### 2018-06-18 / 5.10.2
 
 * chore: Update dependencies scheme.
