@@ -34,6 +34,7 @@
     "tslint-react": "^3.6.0"
   },
   "devDependencies": {
-    "@cowtech/eslint-config": "^4.19.4"
+    "@cowtech/eslint-config": "^4.19.4",
+    "prettier": "^1.13.5"
   }
 }
