@@ -1,3 +1,7 @@
+### 2018-06-18 / 5.10.1
+
+* fix: Use double quotes in JSX.
+
 ### 2018-06-18 / 5.10.0
 
 * feat: Switch to StandardJS.
