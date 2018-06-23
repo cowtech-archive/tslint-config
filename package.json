@@ -31,7 +31,8 @@
   "dependencies": {
     "tslint": "^5.10.0",
     "tslint-config-standard": "^7.0.0",
-    "tslint-react": "^3.6.0"
+    "tslint-react": "^3.6.0",
+    "typescript": "^2.9.2"
   },
   "devDependencies": {
     "@cowtech/eslint-config": "^4.19.4",
