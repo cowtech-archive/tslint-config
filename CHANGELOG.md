@@ -1,3 +1,7 @@
+### 2018-06-23 / 5.10.4
+
+* fix: Satisfy peer dependency.
+
 ### 2018-06-18 / 5.10.3
 
 * chore: Add prettier to dev dependencies.
