@@ -6,7 +6,6 @@
 module.exports = {
   extends: ['./index.js', 'tslint-react'],
   rules: {
-    quotemark: [true, 'single', 'jsx-double'],
     'jsx-alignment': false,
     'jsx-ban-props': false,
     'jsx-curly-spacing': false,
