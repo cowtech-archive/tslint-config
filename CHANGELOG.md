@@ -1,3 +1,7 @@
+### 2018-06-24 / 5.10.5
+
+* fix: Use avoid rules for quotes.
+
 ### 2018-06-23 / 5.10.4
 
 * fix: Satisfy peer dependency.
