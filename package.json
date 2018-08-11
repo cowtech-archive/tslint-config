@@ -29,13 +29,13 @@
   },
   "homepage": "https://github.com/cowtech/tslint-config/issues",
   "dependencies": {
-    "tslint": "^5.10.0",
-    "tslint-config-standard": "^7.0.0",
+    "tslint": "^5.11.0",
+    "tslint-config-standard": "^7.1.0",
     "tslint-react": "^3.6.0",
-    "typescript": "^2.9.2"
+    "typescript": "^3.0.1"
   },
   "devDependencies": {
-    "@cowtech/eslint-config": "^4.19.4",
-    "prettier": "^1.13.5"
+    "@cowtech/eslint-config": "^4.19.5",
+    "prettier": "^1.14.2"
   }
 }
