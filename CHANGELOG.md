@@ -1,3 +1,7 @@
+### 2018-08-11 / 5.11.0
+
+* feat: Updated dependencies.
+
 ### 2018-06-24 / 5.10.5
 
 * fix: Use avoid rules for quotes.
