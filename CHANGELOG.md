@@ -1,3 +1,7 @@
+### 2018-10-08 / 5.11.1
+
+* fix: Updated dependencies.
+
 ### 2018-08-11 / 5.11.0
 
 * feat: Updated dependencies.
