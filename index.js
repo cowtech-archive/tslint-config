@@ -12,7 +12,6 @@ module.exports = {
     typedef: [
       true,
       'call-signature',
-      'arrow-call-signature',
       'parameter',
       'arrow-parameter',
       'property-declaration',
