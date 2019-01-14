@@ -9,7 +9,7 @@ module.exports = {
     curly: false,
     quotemark: [true, 'single', 'jsx-double', 'avoid-template', 'avoid-escape'],
     'space-before-function-paren': false,
-    tslint: [
+    typedef: [
       true,
       'call-signature',
       'arrow-call-signature',
