@@ -8,6 +8,15 @@ module.exports = {
   rules: {
     curly: false,
     quotemark: [true, 'single', 'jsx-double', 'avoid-template', 'avoid-escape'],
-    'space-before-function-paren': false
+    'space-before-function-paren': false,
+    tslint: [
+      true,
+      'call-signature',
+      'arrow-call-signature',
+      'parameter',
+      'arrow-parameter',
+      'property-declaration',
+      'member-variable-declaration'
+    ]
   }
 }
