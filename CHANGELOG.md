@@ -1,3 +1,7 @@
+### 2019-01-14 / 5.12.0
+
+* feat: Added typedef rule.
+
 ### 2018-10-08 / 5.11.1
 
 * fix: Updated dependencies.
