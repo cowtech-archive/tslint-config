@@ -1,3 +1,7 @@
+### 2019-01-14 / 5.12.2
+
+* fix: Relax typedef rule a little.
+
 ### 2019-01-14 / 5.12.1
 
 * fix: Fixed typo.
