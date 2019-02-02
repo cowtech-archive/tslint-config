@@ -1,3 +1,7 @@
+### 2019-02-02 / 5.12.4
+
+* fix: Always require curly braces.
+
 ### 2019-02-02 / 5.12.3
 
 * chore: Use NPM for locking.
