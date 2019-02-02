@@ -6,6 +6,7 @@
 module.exports = {
   extends: ['tslint-config-standard'],
   rules: {
+    curly: true,
     quotemark: [true, 'single', 'jsx-double', 'avoid-template', 'avoid-escape'],
     'space-before-function-paren': false,
     typedef: [
