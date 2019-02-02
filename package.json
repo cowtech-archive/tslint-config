@@ -32,10 +32,10 @@
     "tslint": "^5.12.1",
     "tslint-config-standard": "^8.0.1",
     "tslint-react": "^3.6.0",
-    "typescript": "^3.2.2"
+    "typescript": "^3.3.1"
   },
   "devDependencies": {
     "@cowtech/eslint-config": "^4.19.5",
-    "prettier": "^1.15.3"
+    "prettier": "^1.16.3"
   }
 }
