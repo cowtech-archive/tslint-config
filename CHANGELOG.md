@@ -1,3 +1,7 @@
+### 2019-02-24 / 5.13.0
+
+* chore: Updated dependencies.
+
 ### 2019-02-02 / 5.12.4
 
 * fix: Always require curly braces.
