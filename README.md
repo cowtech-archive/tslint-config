@@ -1,7 +1,6 @@
 # @cowtech/tslint-config
 
-[![Package Version](https://img.shields.io/npm/v/@cowtech/tslint-config.svg)](https://npmjs.com/package/@cowtech/tslint-config)
-[![Dependency Status](https://img.shields.io/gemnasium/github.com/cowtech/tslint-config.svg)](https://gemnasium.com/github.com/cowtech/tslint-config)
+## END OF DEVELOPMENT NOTICE - This package has been discontinued
 
 CowTech style TSLint config
 
