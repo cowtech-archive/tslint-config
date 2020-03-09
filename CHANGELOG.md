@@ -1,3 +1,7 @@
+### 2020-03-09 / 5.13.1
+
+- chore: Added end of development notice.
+
 ### 2019-02-24 / 5.13.0
 
 - chore: Updated dependencies.
